@@ -20,6 +20,4 @@ The library validates selector availability before invoking runtime message send
   s.source_files         = 'Sources/SafeMsgSend/*.h'
   s.public_header_files  = 'Sources/SafeMsgSend/*.h'
   s.header_mappings_dir  = 'Sources'
-
-  s.frameworks = 'Foundation'
 end
