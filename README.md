@@ -26,7 +26,7 @@ SafeMsgSend/
 ### CocoaPods
 
 ```ruby
-pod 'SafeMsgSend', :git => 'https://your.git.repo/SafeMsgSend.git', :tag => '0.1.0'
+pod 'SafeMsgSend', :git => 'https://github.com/Jamyw7g/SafeMsgSend.git'
 ```
 
 For local development:
