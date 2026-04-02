@@ -8,10 +8,10 @@ SAFE_MSG_SEND and SAFE_MSG_SEND_SUPER.
 The library validates selector availability before invoking runtime message send APIs.
   DESC
 
-  s.homepage         = 'https://github.com/your-org/SafeMsgSend'
+  s.homepage         = 'https://github.com/Jamyw7g/SafeMsgSend'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Jamyw7g' => 'jamykp@gmail.com' }
-  s.source           = { :git => 'https://github.com/your-org/SafeMsgSend.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Jamyw7g/SafeMsgSend.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '11.0'
   s.osx.deployment_target = '10.13'
